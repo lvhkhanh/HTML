@@ -5,3 +5,4 @@
 [HTML5 Canvas](https://classroom.udacity.com/courses/ud292)
 ## Paths
 ### https://www.codecademy.com/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-html-elements/lessons/intro-to-html
+### https://www.codecademy.com/paths/learn-how-to-build-websites/tracks/build-websites-intro/modules/learn-html-elements/lessons/intro-to-html/exercises/intro
