@@ -9,3 +9,5 @@
 ## Courses
 ### https://www.codecademy.com/learn/learn-html
 - [x] Responsive Web Design(https://www.sololearn.com/Certificate/1162-123361/jpg/)
+## Best Practices
+### Check browsers console have no error/warning
