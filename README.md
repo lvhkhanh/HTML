@@ -1,4 +1,6 @@
 # HTML
+## Certificate
+https://www.codecademy.com/profiles/Khanh.Le/certificates/9eb0741e5ebef1f9f58a53bfac67d3a7 Learn HTML Course
 
 [Introduction to HTML](https://www.codecademy.com/learn/learn-html)
 
